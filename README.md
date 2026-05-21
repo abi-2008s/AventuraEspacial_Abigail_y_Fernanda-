@@ -72,3 +72,5 @@ Espacial.exe, ubicado dentro de la ruta bin Debug del directorio del proyecto. E
 permite correr la aplicación de forma inmediata en cualquier computadora con el sistema
 operativo Windows, sin necesidad de cargar las herramientas de Visual Studio, facilitando
 una auditoría rápida de la interfaz y la lógica del simulador.
+
+## ⚠️ SI EL PROGRAMA NO CORRE CLONAR EL REPOSITORIO ⚠️
